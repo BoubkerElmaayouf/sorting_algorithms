@@ -1,1 +1,4 @@
 #!/usr/bin/env bash
+O(nlog(n))
+O(nlog(n))
+O(n^2)
